@@ -1,5 +1,6 @@
 
-### Olá! Sou o JK 👋
+### 👋 Olá, eu sou JK!
+Bem-vindo ao meu GitHub! Aqui você encontrará uma coleção de projetos pessoais, soluções experimentais e iniciativas de aprimoramento profissional que refletem minha experiência e dedicação ao desenvolvimento de software.
 ----------------------
 Sou desenvolvedor fullstack com foco em servidores FiveM, atuando de forma freelancer com serviços pontuais e temporários. Minha principal missão é ajudar servidores a evoluir, oferecendo suporte técnico, correções, otimizações e desenvolvimento sob demanda.
 --------------------
