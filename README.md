@@ -2,8 +2,6 @@
 ### 👋 Olá, eu sou JK!
 Bem-vindo ao meu GitHub! Aqui você encontrará uma coleção de projetos pessoais, soluções experimentais e iniciativas de aprimoramento profissional que refletem minha experiência e dedicação ao desenvolvimento de software.
 ----------------------
-Sou desenvolvedor fullstack com foco em servidores FiveM, atuando de forma freelancer com serviços pontuais e temporários. Minha principal missão é ajudar servidores a evoluir, oferecendo suporte técnico, correções, otimizações e desenvolvimento sob demanda.
---------------------
 ### 🖥️ Linguagens de Programação
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
