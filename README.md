@@ -150,16 +150,4 @@ Gosto de explorar novas tecnologias, testar arquiteturas diferentes e transforma
 <br/>
 <br/
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src=https://github-stats-extended.vercel.app/api?username=kavshjk&show_icons=true&theme=radical&include_all_commits=true 
-  />
-
-
 </p>
