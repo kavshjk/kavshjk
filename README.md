@@ -4,7 +4,7 @@
 
 Sou desenvolvedor fullstack com 3 anos de experiência atuando em startups, SaaS e empresas que buscam desenvolver e lançar produtos digitais do zero ao mercado. Aqui você encontra uma coleção de projetos pessoais, soluções experimentais e iniciativas de aprimoramento profissional que refletem minha forma de pensar e construir software: prática, orientada a resultados e sempre em evolução.
 
-Gosto de explorar novas tecnologias, testar arquiteturas diferentes e transformar ideias em produtos funcionais seja um MVP para validar um negócio, seja uma automação que resolve um problema real do dia a dia.
+Gosto de explorar novas tecnologias, testar arquiteturas diferentes e transformar ideias em produtos funcionais seja um MVP para validar um negócio, seja uma automação que resolva um problema real do dia a dia. Também tenho interesse crescente em cybersecurity, buscando aplicar boas práticas de segurança desde a concepção dos projetos (secure by design) e me aprofundando em temas como proteção de dados, autenticação e prevenção de vulnerabilidades comuns em aplicações web.
 
 ---
 
